@@ -1,0 +1,59 @@
+ body {
+    background-image: url("goldfish.jpeg");
+    background-repeat: no-repeat;
+    background-size: 75%;
+    background-position:center 150px;
+}
+
+fieldset {
+	max-width:30%;
+	background: lightgrey;
+	border-width: 5px;
+	border-color: orange;
+}
+
+.txtfield {
+	width: 30%;
+	height: 10%;
+}
+
+a:link, a:visited {
+	color: orange;
+}
+
+a:hover {
+	color: gold;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+	color: white;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: black;
+}
+
+
+.navbar-fixed-top {
+  border: 0;
+}
+
+.navbar-default .navbar-brand {
+	color: #000000;
+}
+
+.navbar-default .navbar-brand:hover {
+	color: white;
+}
+
+.navbar{
+  background-color: #FFA500;
+}
+
+.panel-default>.panel-heading {
+	background-color: #FFA500;
+}
+
+.btn-warning {
+	color: #000000
+}
