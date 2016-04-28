@@ -18,5 +18,6 @@
             <li><a href="">One more nav</a></li>
             <li><a href="">Another nav item</a></li>
           </ul>
+          <button type="button" class="btn btn-secondary btn-lg btn-block">+ Add Goal</button>
         </div>
       </div>

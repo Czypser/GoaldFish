@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>GoaldFish Template</title>
+    <title>GoalFish Template</title>
 
     <!-- Bootstrap core CSS -->
     <!-- Latest compiled and minified CSS -->

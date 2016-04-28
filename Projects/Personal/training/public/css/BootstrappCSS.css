@@ -12,6 +12,10 @@ body {
  * Global add-ons
  */
 
+button {
+  background-color: #FFA500;
+}
+
 .sub-header {
   padding-bottom: 10px;
   border-bottom: 1px solid #eee;
